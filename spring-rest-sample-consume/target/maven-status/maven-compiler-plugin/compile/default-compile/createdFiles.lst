@@ -1,0 +1,4 @@
+com\selleniumexpress\api\Student.class
+com\selleniumexpress\config\MyAppConfig.class
+com\selleniumexpress\config\MyRestAppInitlizer.class
+com\selleniumexpress\restcontroller\MyRestController.class
